@@ -28,49 +28,7 @@ Unit tests
 Quizzes
 Examinations
 
-
 Classroom participation is also considered when giving a final grade.
-
-Course Outline:
-Week | Topics
-1    | Course introduction and programming basics
-2    | Code writing and compiling procedures, introducing variables
-3    | Variables and computations
-4    | Input/output statements and documentation
-5    | If statements
-6    | More if statements and nested-if statements
-7    | Switch statements, introducing loops
-8    | Loop statements and arrays
-9    | Nested loop statements
-10   | Functions
-11   | More functions, classes, and basic OOP concepts
-12   | Continuing OOP concepts
-13   | Review of programming basics
-14   | Database introduction
-15   | Data modeling and normalization
-16   | Data relationships and more modeling
-17   | Review
----    Christmas Break!
-18   | Tables, types, and keys
-19   | Intro to SQL
-20   | Querying
-21   | NoSQL and Big Data
-22   | HTML and CSS review
-23   | JavaScript
-24   | Introduction to backed web programming
-25   | Full stack web programming
-26   | More full stack web programming
-27   | Intro to Android App programming
-28   | XML Views
-29   | App navigation and next steps
-30   | Software Engineering concepts
-31   | Team programming
-32   | Project management
----    Easter Break!
-33   | Programming interests
-34   | Programming interests
-35   | Programming interests
-36   | Review
 
 Course Requirements:
 Class Web Site: A variety of class resources will be posted on my web site including assignment descriptions, examples, and additional resources. This information can be found by navigating to http://hcs-programming.com.
@@ -89,11 +47,4 @@ Program Assignment Guidelines—The following items list some of the common guidel
 * A program must compile without errors, or it will not be accepted for grading.
 * Just because a program works does not mean that it “automatically” will receive a perfect score on the assignment. A working program is the expected average, whereas above-average programs not only work, but they work in the best possible way, follow specifications and instructions given in class, and evidence craftsmanship in all areas including design, layout, documentation, and so on.
 * It is imperative that students follow directions. Not doing so will result in deductions from an assignment’s overall grade.
-Page 3
-
-
-Heritage Christian School
-Course Outline
-2016-2017
-
 
