@@ -1,0 +1,5 @@
+Source Control (Version Control) - A smart way of backing up files that keeps a running history of the files.
+
+Commit - A saved version of your files, a backup
+
+Git - A type of source control
