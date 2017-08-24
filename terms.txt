@@ -3,3 +3,5 @@ Source Control (Version Control) - A smart way of backing up files that keeps a 
 Commit - A saved version of your files, a backup
 
 Git - A type of source control
+
+Repository - The special folder that keeps track of your changes
