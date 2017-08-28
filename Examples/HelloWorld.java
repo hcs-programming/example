@@ -7,4 +7,9 @@
 
 public class HelloWorld
 {
+	public static void main(String[] args)
+	{
+		// Print out a message to the whole world!
+		System.out.println("Hello World!");
+	}
 }
